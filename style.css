@@ -1,8 +1,10 @@
 h1{
     padding: 10px;
+    margin: 10px;
     background-color: green;
     color: white;
     text-align: center;
+    font-family: "Comic Sans Ms";
 }
 footer{
     text-align: center;
