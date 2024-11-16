@@ -42,7 +42,11 @@ nav a:hover{
     width: 25%;
 }
 footer{
-    text-align: center;
+clear: both;
+background-color: green;
+padding: 10px;
+text-align: center;
+color: white;
 
 
 }
