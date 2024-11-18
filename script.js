@@ -6,6 +6,6 @@ function showDate(){
  const days =['sunday','monday','tuesday','wednesday','thursday']
  days.forEach(
     function (abc){
-        console.log(abc);
+        document.write(abc + " ")
     }
  )
